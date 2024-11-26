@@ -1,0 +1,7 @@
+
+
+Babel - usesd for transpiling code from es6 to es5 - abhi thoda kam used horta hai
+swc  - Speedy WebAssembly Compiler used for compiling es6 to es5 
+hmr - Hot Module Replacement used for fast refresh
+
+
